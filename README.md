@@ -72,21 +72,21 @@ Tech: Python, Scikit-learn
 ---
 
 ## Contact
-Email: your-email@gmail.com  
-LinkedIn: https://linkedin.com/in/yourprofile  
-GitHub: https://github.com/yourusername  
+Email: codebyhamad@gmail.com  
+LinkedIn: https://linkedin.com/in/hamaad-rajper  
+GitHub: https://github.com/codebyHamad  
 
 ---
 
 ## GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codebyHamad&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebyHamad" />
 </p>
 
 ---
 
 ## Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebyHamad" />
 </p>
