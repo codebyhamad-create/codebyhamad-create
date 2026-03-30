@@ -1,22 +1,34 @@
-# Hi there 👋, I'm Hamadullah Rajper
-I'm a Data Analyst & Python Enthusiast passionate about turning data into actionable insights. I love building projects that showcase real-world problem-solving and data storytelling.
+# Hamadullah Rajper
 
-## 🔹 What I Do
-- Build **Data Analysis & Visualization** projects using Python, Pandas, Matplotlib, Seaborn, and Plotly  
-- Develop **Machine Learning Models** for predictive insights  
-- Automate and clean messy datasets for actionable reporting  
-- Share tutorials and notebooks to help others learn practical data skills
+I am a **Data Scientist** specializing in **data analysis, machine learning, and predictive modeling**. I design and implement data-driven solutions that transform raw data into actionable insights and support strategic decision-making.
 
-- ## 💻 Featured Projects
-- [Netflix Data Analysis](https://github.com/codebyhamad-create/netflix-data-analysis) – Exploratory analysis & insights on Netflix dataset  
-- [Global Superstore Sales Analysis](https://github.com/codebyhamad-create/global-superstore-sales-analysis) – Data cleaning, visualization & dashboarding  
-- [Movie Recommendation System](https://github.com/codebyhamad-create/movie-recommendation-system-by-hamad) – Python-based recommendation engine  
-- [Data Job Market Intelligence](https://github.com/codebyhamad-create/data-job-market-intelligence) – Analyzed trends & insights from job postings
+## Expertise
+- Perform **Data Analysis & Visualization** using Python, Pandas, Matplotlib, Seaborn, and Plotly.
+- Develop and deploy **Machine Learning models** for predictive insights and business impact.
+- Build automated data pipelines and clean complex datasets for accurate reporting.
+- Deliver end-to-end projects combining **analytics and ML** for real-world applications.
 
--  ## 🛠 Skills
-**Languages & Tools:** Python, SQL, Excel, Tableau, Power BI  
-**Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-Learn  
-**Other:** Data Cleaning, EDA, Data Visualization, Predictive Modeling
+## Selected Projects
+- **[Netflix Data Analysis](https://github.com/codebyhamad-create/Netflix-Data-Analysis)** – Extracted insights from streaming patterns and content performance.
+- **[Global Superstore Sales Analysis](https://github.com/codebyhamad-create/Global-Superstore-Analysis)** – Data cleaning, visualization, and interactive dashboards.
+- **[Movie Recommendation System](https://github.com/codebyhamad-create/Movie-Recommendation-System)** – Built a Python-based recommendation engine using hybrid filtering.
+- **[Data Job Market Intelligence](https://github.com/codebyhamad-create/Data-Job-Market-Intelligence)** – Analyzed trends and patterns in data science job postings.
+- **[Customer Churn Prediction](https://github.com/codebyhamad-create/Customer-Churn-Prediction)** – ML model to predict and prevent customer attrition.
+
+## Technical Skills
+**Languages & Tools:** Python, R, SQL, Excel, Tableau, Power BI  
+**Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-Learn, Statsmodels  
+**Other:** Data Cleaning, EDA, Data Visualization, Predictive Modeling, ML Deployment  
+**Development Tools:** VS Code, Jupyter Notebook, Google Colab, Git, GitHub
+
+## Connect
+- **LinkedIn:** [linkedin.com/in/hamaad-rajper](https://linkedin.com/in/hamaad-rajper)  
+- **Email:** codebyhamad@gmail.com  
+- **GitHub:** [codebyhamad-create](https://github.com/codebyhamad-create)
+
+## Current Focus
+- Building production-ready **ML pipelines** and cloud-based data solutions.  
+- Delivering projects that integrate **advanced analytics and machine learning** for actionable business insights.
 - 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -37,12 +49,6 @@ I'm a Data Analyst & Python Enthusiast passionate about turning data into action
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-
-## 📫 Connect with Me
-- LinkedIn: [linkedin.com/in/hamaad-rajper](https://www.linkedin.com/in/hamaad-rajper)
-- Email: codebyhamad@gmail.com
-- GitHub: [codebyhamad-create](https://github.com/codebyhamad-create)
 
 - 💡 Fun fact: I love exploring datasets just like a detective solves mysteries.  
 🌱 Currently learning advanced ML deployment and cloud data pipelines.
